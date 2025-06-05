@@ -18,7 +18,7 @@ add_result = add(5, 3)
 subtract_result = subtract(10, 4)
 
 multiply_result = multiply(6, 7)
-# divide_result = divide(20, 5)
+divide_result = divide(20, 5)
 
 print(f"Addition: {add_result}")
 print(f"Subtraction: {subtract_result}")    
