@@ -32,7 +32,7 @@ divide_result = divide(20, 5)
 #     return 0.5 * base * height
 
 # Test the area functions
-rect_area = area_of_rectangle(5, 4)
+# rect_area = area_of_rectangle(5, 4)
 # circle_area = area_of_circle(3)
 # triangle_area = area_of_triangle(6, 8)
 
