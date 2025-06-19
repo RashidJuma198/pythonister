@@ -41,7 +41,32 @@
 # ============================================================
 
 # Sylvia's Implementation Area:
+# 1. Create a variable named 'age' and assign your age to it
+age = 24
+# 2. Create a string variable containing your full name
+x = str("Sylvia Nzuki")
+# 3. Create three variables in one line containing your favorite colors
+x,y,z = ("Black","White","Maroon")
+# 4. Define a global variable called 'school_name' and use it inside a function
+school_name = "Lukenya"
 
+def print_school_name():
+          print(school_name)
+# 5. Create a variable with a float number and convert it to integer
+x = 7.8
+x = int(7.8)
+# 6. Assign the same value to multiple variables in one line
+x=y=z=7.8
+# 7. Create a variable named 'is_student' with boolean value
+is_student = True
+# 8. Output a variable's value inside a print statement with text
+item = ("phone")
+price = ("20,000")
+print ( "Hello the", item, "costs",price, "kenya shillings")
+# 9. Create a variable name with multiple words using snake_case
+first_name = ("Sylvia Smith")
+# 10. Declare a constant variable (use uppercase convention)
+USER_NAME = ("admin")
 
 # Rashid's Implementation Area:
 
